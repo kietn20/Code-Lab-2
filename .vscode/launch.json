@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"name": "C#: ConsoleApp3",
+			"type": "dotnet",
+			"request": "launch",
+			"projectPath": "${workspaceFolder}\\ConsoleApp3\\ConsoleApp3.csproj",
+			"launchConfigurationId": "TargetFramework=;ConsoleApp3"
+		}
+	]
+}

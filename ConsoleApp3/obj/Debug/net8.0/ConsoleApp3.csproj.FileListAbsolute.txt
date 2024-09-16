@@ -12,3 +12,4 @@ c:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Develop
 c:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
 c:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
 c:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
+c:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
