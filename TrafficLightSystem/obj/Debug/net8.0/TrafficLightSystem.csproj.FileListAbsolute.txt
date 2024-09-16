@@ -1,0 +1,15 @@
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\bin\Debug\net8.0\TrafficLightSystem.exe
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\bin\Debug\net8.0\TrafficLightSystem.deps.json
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\bin\Debug\net8.0\TrafficLightSystem.runtimeconfig.json
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\bin\Debug\net8.0\TrafficLightSystem.dll
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\bin\Debug\net8.0\TrafficLightSystem.pdb
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\TrafficLightSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\TrafficLightSystem.AssemblyInfoInputs.cache
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\TrafficLightSystem.AssemblyInfo.cs
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\TrafficLightSystem.csproj.CoreCompileInputs.cache
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\TrafficLightSystem.sourcelink.json
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\TrafficLightSystem.dll
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\refint\TrafficLightSystem.dll
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\TrafficLightSystem.pdb
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\TrafficLightSystem.genruntimeconfig.cache
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\TrafficLightSystem\obj\Debug\net8.0\ref\TrafficLightSystem.dll

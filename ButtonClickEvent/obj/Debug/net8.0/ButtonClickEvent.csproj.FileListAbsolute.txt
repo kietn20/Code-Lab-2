@@ -1,0 +1,15 @@
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\bin\Debug\net8.0\ButtonClickEvent.exe
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\bin\Debug\net8.0\ButtonClickEvent.deps.json
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\bin\Debug\net8.0\ButtonClickEvent.runtimeconfig.json
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\bin\Debug\net8.0\ButtonClickEvent.dll
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\bin\Debug\net8.0\ButtonClickEvent.pdb
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ButtonClickEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ButtonClickEvent.AssemblyInfoInputs.cache
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ButtonClickEvent.AssemblyInfo.cs
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ButtonClickEvent.csproj.CoreCompileInputs.cache
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ButtonClickEvent.sourcelink.json
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ButtonClickEvent.dll
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\refint\ButtonClickEvent.dll
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ButtonClickEvent.pdb
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ButtonClickEvent.genruntimeconfig.cache
+C:\Users\kiet_\OneDrive\Desktop\Kiet\CSULB\Fall 2024\CECS 475 - Software Development with Frameworks\ConsoleApp3\ButtonClickEvent\obj\Debug\net8.0\ref\ButtonClickEvent.dll
